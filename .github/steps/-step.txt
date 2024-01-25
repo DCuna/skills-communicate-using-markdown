@@ -3,3 +3,7 @@
 ###### This is an `<h6>` header, Open source .
 This is my first experience with open source.
 ![Image of Yaktocat](https://octodex.github.com/images/yaktocat.png)
+```
+$ git init
+Initialized empty Git repository in /Users/skills/Projects/recipe-repository/.git/
+```
